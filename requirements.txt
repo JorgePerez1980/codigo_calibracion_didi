@@ -1,0 +1,17 @@
+langchain-core==0.3.6  
+langchain-google-vertexai==2.0.1
+google-cloud-dlp==3.18.1    
+pandas==2.0.3
+google-cloud-bigquery==3.11.4
+polars==0.19.12
+pydantic==2.9.2
+numpy==1.25.2
+functions-framework==3.*
+db-dtypes==1.1.1
+python-dotenv==1.0.0
+fsspec
+gcsfs
+openpyxl
+pydub
+unidecode
+langchain
